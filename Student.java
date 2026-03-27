@@ -6,7 +6,7 @@ public class Student {
     private String id; 
     private int classYear; 
     private ArrayList<Course> classes; 
-
+    
     public Student(String name, String id, int classYear) {
         this.name = name;
         this.id = id;
